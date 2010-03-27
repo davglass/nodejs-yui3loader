@@ -1,0 +1,14 @@
+Serverside YUI3 loader written in YUI3 on Node.js
+
+Setup is pretty simple:
+
+Clone my nodejs-yui3 project and set it up.
+
+In a sibling directory, clone this project:
+
+node ./loader.js
+
+That's it.
+
+Examples here:
+http://yuiloader.davglass.com:8080/demo/
